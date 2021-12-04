@@ -1,2 +1,4 @@
 # pretty-angular-app
-Draft app demonstrating Angular.
+A demo app demonstrating Angular.
+
+Uses Angular Material.
